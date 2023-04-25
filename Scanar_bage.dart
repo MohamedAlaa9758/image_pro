@@ -8,9 +8,6 @@
     Widget build(BuildContext context) {
       return Scaffold(
         backgroundColor: Colors.white10,
-        drawer: Drawer(
-
-        ),
         body: SafeArea(
           child: Padding(
             padding: const EdgeInsets.all(20.0),
